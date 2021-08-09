@@ -25,4 +25,4 @@ The deep LSTM model uses an embedding size of 200 with 1024 hidden neuron in the
 binary-crossentropy to build a multi-label morality prediction.
 
 # Usage
-An weighted score from the content based and collaborative filtering system is used to make the final recommendations.
+A weighted score from the content based and collaborative filtering system is used to make the final recommendations.
